@@ -4,7 +4,7 @@ I'm Manuel from Germany 🇩🇪 passinated Developer since over 5 years and You
 Do you wan't to know more?\
 [Visit my personal website](https://manuelschuler.dev)
 
-- 🔭 I’m currently working on [PriceNotify](https://pricenotify.app) & [Pollmaschine](https://pollmaschine.app)
+- 🔭 I’m currently working on [PriceNotify](https://pricenotify.app) & [Pollmachine](https://pollmachine.app)
 - 🇩🇪 Programming languages: 
 -  - 🛠 Javascript/Typescript (Angular, NodeJS, Express)
 -  - 🎯 Dart (Flutter)
